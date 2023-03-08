@@ -8,3 +8,4 @@ ls ves que hay en esa carpeta
 ls -la ves incluso los archivos ocultos
 pwd ves las ruta en la cual estas parado actualmente
 
+dasdadsadsad
